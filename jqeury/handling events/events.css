@@ -1,0 +1,17 @@
+.large{
+	font-size: 1.5em;
+}
+.narrow{
+	width: 250px;
+}
+.selected{
+	font-weight: bold;
+}
+.hidden{
+	display: none;
+}
+
+.hover{
+	cursor: pointer;
+	background-color: #afa;
+}
